@@ -1,8 +1,7 @@
 ## Drunix : Performant, enterprise-grade blockchain platform
 
 [![NPCIOSS Lifecycle](https://img.shields.io/badge/oss_lifecyce-active-green)](OSSMETADATA)
-[![Go VERSION]([https://img.shields.io/github/go-mod/go-version/npci/drunix](https://img.shields.io/github/go-mod/go-version/npci/drunix))]()
-
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/npci/drunix)
 
 <img alt="Drunix" src="./docs/images/logo.jpeg" width="250"/>
 
